@@ -12,7 +12,7 @@ var temp2 = 350
 var temp3 = 212
 
 
-
+testing!
 
 
 // --------------------2) Create a function that multiplies each number in the array by 5 using a for loop.
