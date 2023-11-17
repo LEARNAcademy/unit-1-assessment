@@ -2,9 +2,8 @@
 
 ### ✅ Completed Files
 
-Select the following as confirmation that the files in this repository are complete.
+Please mark the following as confirmation that the tasks in your assessment are complete.
 
-- [ ] Career Readiness
 - [ ] Coding Challenges
 - [ ] Coding Concepts
 - [ ] Interview Questions

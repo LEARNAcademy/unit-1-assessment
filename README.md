@@ -8,7 +8,7 @@ The step-by-step instructions [here](https://github.com/LEARNAcademy/Syllabus/bl
 
 Assessment should be accessed through the GitHub Classroom link provided to you in Slack.
 
-PRs should be posted _before_ class begins on the following Monday.
+This assessment is due _before_ class begins at 9am on Monday, November 27, 2023.
 
 ---
 
