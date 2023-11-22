@@ -1,4 +1,4 @@
-# Submitting Assessment 1
+# Submitting First Assessment
 
 ### ✅ Completed Files
 
@@ -15,4 +15,4 @@ Do NOT merge your assessment!
 
 ### 📝 Feedback
 
-If you would like specific feedback please leave details here:
+If you would like specific feedback, please leave details here:
