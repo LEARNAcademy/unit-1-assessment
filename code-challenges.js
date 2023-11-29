@@ -4,10 +4,9 @@
 // Pseudo coding is REQUIRED
 // If you get stuck, leave comments to help us understand your thought process
 
-// Reminder: Ensure you are in the correct directory
-// Run the file with the following command: $ node code - challenges.js
+// Run the file with the following command: $ node code-challenges.js
 
-// --------------------INSTRUCTOR EXAMPLE: Create a conditional statement that evaluates two strings and determines which of the strings has more characters. Use the two sets of test variables provided.
+// --------------------INSTRUCTOR EXAMPLE: Create a function that evaluates two strings and determines which of the strings has more characters. Use the two sets of test variables provided.
 
 // Set one:
 const fruit1 = "apple"
@@ -15,8 +14,8 @@ const fruit2 = "banana"
 // Expected outcome: "banana"
 
 // Set two:
-// const fruit1 = "cherry"
-// const fruit2 = "kiwi"
+const fruit3 = "cherry"
+const fruit4 = "kiwi"
 // Expected outcome: "cherry"
 
 // Pseudo code:
@@ -37,7 +36,7 @@ const currentCohort = "LEARN 2023"
 
 // Pseudo code:
 
-// --------------------3) Create the code that will log only the odd numbers from the array using the test variable provided below.
+// --------------------3) Use a for loop to log only the odd numbers from the array using the test variable provided below.
 
 const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
 // Expected output: 13 5 -5 27

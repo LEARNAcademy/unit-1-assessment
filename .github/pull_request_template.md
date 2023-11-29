@@ -1,10 +1,9 @@
-# Submitting Week 1 Assessment
+# Submitting First Assessment
 
 ### ✅ Completed Files
 
-Select the following as confirmation that the files in this repository are complete.
+Please mark the following as confirmation that the tasks in your assessment are complete.
 
-- [ ] Career Readiness
 - [ ] Coding Challenges
 - [ ] Coding Concepts
 - [ ] Interview Questions
@@ -16,4 +15,4 @@ Do NOT merge your assessment!
 
 ### 📝 Feedback
 
-If you would like specific feedback please leave details here:
+If you would like specific feedback, please leave details here:
